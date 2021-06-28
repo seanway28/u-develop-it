@@ -19,7 +19,8 @@
   "homepage": "https://github.com/seanway28/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.4"
   },
   "devDependencies": {
     "jest": "^27.0.5"
